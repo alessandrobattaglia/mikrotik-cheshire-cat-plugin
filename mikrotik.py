@@ -17,7 +17,7 @@ def settings_schema():
 
 
 def get_setting(cat, name):
-    settings = cat.mad_hatter.plugins["test"].load_settings()
+    settings = cat.mad_hatter.plugins['mikrotik'].load_settings()
 
     return settings[name] if name in settings else None
 
