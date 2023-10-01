@@ -1,9 +1,9 @@
 {
     "name": "Mikrotik",
     "version": "0.1",
-    "description": "Communicate with the Mikrotik plugin",
+    "description": "Communicate with the Mikrotik router using the cat",
     "author_name": "Alessandro B.",
     "author_url": "https://abattaglia.it",
-    "plugin_url": "https://gitlab.com/alessandro.battaglia/mikrotik-cheshire-cat-plugin",
+    "plugin_url": "https://github.com/alessandrobattaglia/mikrotik-cheshire-cat-plugin",
     "tags": "mikrotik, router"
 }
