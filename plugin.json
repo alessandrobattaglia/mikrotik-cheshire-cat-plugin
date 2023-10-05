@@ -1,6 +1,6 @@
 {
     "name": "mikrotik",
-    "version": "0.1",
+    "version": "0.2",
     "description": "Communicate with the Mikrotik router using the cat",
     "author_name": "Alessandro B.",
     "author_url": "https://abattaglia.it",
