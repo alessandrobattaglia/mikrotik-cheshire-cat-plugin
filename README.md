@@ -23,6 +23,7 @@ This plugin is able to communicate with Mikrotik router.
 ### Router info
 
 You can ask for Mikrotik Info and you will receive this info:
+
 - Architecture Name
 - Bad Blocks
 - Board Name
@@ -44,12 +45,18 @@ You can ask for Mikrotik Info and you will receive this info:
 ### Interfaces list
 
 You can prompt using the following data about interfaces:
+
 - Id
 - Default Name
 - Name
 - Running
 - Disabled
 - Mac Address
+
+### Is an entity at home?
+
+You can ask if an entity is at home based on the mac addresses you can add using the prompt "Add 'mac address' to '
+entity'".
 
 ## Want to contribute? Ok, I agree!
 
